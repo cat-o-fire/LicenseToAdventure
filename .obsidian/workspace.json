@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Notes.md",
+                "file": "Player Characters/Joanna.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Ellisra Lelnam.md",
-                "mode": "preview",
+                "file": "Player Characters/Candy.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wren.md",
+                "file": "Wren.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skip.md",
+                "file": "Wren.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skip.md",
+                "file": "Player Characters/Joanna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skip.md",
+                "file": "Player Characters/Joanna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skip.md"
+                "file": "Player Characters/Joanna.md"
               }
             }
           }
@@ -204,19 +203,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d38ed536e1644a7",
+  "active": "d24d379887743861",
   "lastOpenFiles": [
-    "wren.md",
-    "Skip.md",
-    "Player Characters/Val.md",
-    "Player Characters/Candy.md",
-    "Player Characters/Ellisra Lelnam.md",
-    "Player Characters/Freddie.md",
-    "Player Characters/Reggie.md",
     "Player Characters/The Player Characters.md",
-    "The Exam.md",
-    "University of UCS.md",
+    "Player Characters/Reggie.md",
+    "Player Characters/Joanna.md",
+    "Player Characters/Candy.md",
+    "Player Characters/Val.md",
+    "Player Characters/Ellisra Lelnam.md",
     "Base Notes.md",
+    "Wren.md",
+    "University of UCS.md",
+    "Skip.md",
+    "Player Characters/Freddie.md",
+    "The Exam.md",
     "Media/Portraits/Ellisra/EllisraFall.png",
     "Media/Portraits/Ellisra/EllisraSummer.png",
     "Media/Portraits/Ellisra/EllisraSpring.png",

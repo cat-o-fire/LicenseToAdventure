@@ -5,5 +5,5 @@ tags:
   - Genasi
 ---
 Played by Lex
-Air Genasi Monk
+Fire Genasi Warlock
 went to college at [[University of UCS]]

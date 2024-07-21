@@ -26,3 +26,11 @@ Background:
 - Got sent off to uucs
 - failed out and was to proud to return home
 - Has lived off of their music and various cons since
+
+# Ellisra and Candy's Relationship
+
+- Roommates since freshman year
+- Actually genuinely besties
+- Everyone else thinks they are dating
+- Get like a 200$ bottle of wine every week
+	- Candy will occasionally wake up curl up to Ellisra

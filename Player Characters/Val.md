@@ -1,3 +1,9 @@
+---
+tags:
+  - Elf
+  - Artificer
+---
+
 Played by Jeff
-?? Artificer
+High Elf Artificer
  went to [[University of UCS]]

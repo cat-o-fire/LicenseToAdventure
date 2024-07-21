@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Joanna.md",
+                "file": "Player Characters/Ellisra Lelnam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ee1312b5039e193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sony.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b63581de498febd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e2cc6e7f43904d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Reggie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a7f75153f34f75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Troya.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,18 +92,6 @@
             }
           },
           {
-            "id": "dffa892fb6f1c909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4d38ed536e1644a7",
             "type": "leaf",
             "state": {
@@ -66,18 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ad133c466a994d1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240429171806.png"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Characters/Joanna.md",
+                "file": "Troya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Characters/Joanna.md",
+                "file": "Troya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters/Joanna.md"
+                "file": "Troya.md"
               }
             }
           }
@@ -203,34 +230,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d24d379887743861",
+  "active": "5a7f75153f34f75f",
   "lastOpenFiles": [
-    "Player Characters/The Player Characters.md",
-    "Player Characters/Reggie.md",
-    "Player Characters/Joanna.md",
-    "Player Characters/Candy.md",
-    "Player Characters/Val.md",
-    "Player Characters/Ellisra Lelnam.md",
-    "Base Notes.md",
-    "Wren.md",
-    "University of UCS.md",
-    "Skip.md",
-    "Player Characters/Freddie.md",
-    "The Exam.md",
-    "Media/Portraits/Ellisra/EllisraFall.png",
     "Media/Portraits/Ellisra/EllisraSummer.png",
+    "Media/Portraits/Ellisra/EllisraFall.png",
     "Media/Portraits/Ellisra/EllisraSpring.png",
     "Media/Portraits/Ellisra/EllisraWinter.png",
+    "Troya.md",
+    "Media/Map.png",
+    "Player Characters/Reggie.md",
+    "Player Characters/Val.md",
+    "Skip.md",
+    "Sony.md",
+    "Nel.md",
+    "Invitation.md",
+    "Phase 4.md",
+    "Vegar.md",
+    "Base Notes.md",
+    "The Exam.md",
+    "University of UCS.md",
+    "Wren.md",
+    "Player Characters/Candy.md",
+    "Player Characters/The Player Characters.md",
+    "Player Characters/Joanna.md",
+    "Player Characters/Ellisra Lelnam.md",
+    "Player Characters/Freddie.md",
     "Media/Portraits/Ellisra/download20240402155534.png",
     "Media/Portraits/Ellisra/download20240402162041.png",
     "Media/Portraits/Ellisra/download20240402140001.png",
     "Media/Portraits/Ellisra/download20240402153806.png",
     "Media/Portraits/Ellisra",
     "Media/Portraits",
-    "Vegar.md",
     "Media",
-    "Player Characters",
-    "Invitation.md",
-    "Pasted image 20240429171806.png"
+    "Player Characters"
   ]
 }

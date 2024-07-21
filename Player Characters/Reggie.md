@@ -1,2 +1,8 @@
+---
+tags:
+  - Human
+  - Fighter
+---
+
 Played by Lizzy
-Human? Fighter?
+Human Battlemaster Fighter

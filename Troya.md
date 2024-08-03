@@ -10,15 +10,16 @@ Overkingdom
 - Orcs/Goblins
 
 Budget
-Equipment 2500
+Equipment 2500 - 
 Travel 3000 (Both Ways)
-Room and Board 2000
+Room and Board 2000 - 250
 For Auction 10,000 (We owe this or acquisitions back)
 
 Shield 1000
 Studded Leather 400
 Warhammer 75
 x0.85
+1,279.25
 
 Diamond dust 150
 

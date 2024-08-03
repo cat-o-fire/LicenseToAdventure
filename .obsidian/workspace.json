@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "e8478144cdb5261d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Sardine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41637c9faf0c2f7f",
             "type": "leaf",
             "state": {
@@ -95,16 +107,12 @@
             "id": "4d38ed536e1644a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wren.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troya.md",
+                "file": "The Sardine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troya.md",
+                "file": "The Sardine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troya.md"
+                "file": "The Sardine.md"
               }
             }
           }
@@ -230,13 +238,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a7f75153f34f75f",
+  "active": "e8478144cdb5261d",
   "lastOpenFiles": [
+    "University of UCS.md",
+    "The Sardine.md",
+    "Troya.md",
     "Media/Portraits/Ellisra/EllisraSummer.png",
     "Media/Portraits/Ellisra/EllisraFall.png",
     "Media/Portraits/Ellisra/EllisraSpring.png",
     "Media/Portraits/Ellisra/EllisraWinter.png",
-    "Troya.md",
     "Media/Map.png",
     "Player Characters/Reggie.md",
     "Player Characters/Val.md",
@@ -248,7 +258,6 @@
     "Vegar.md",
     "Base Notes.md",
     "The Exam.md",
-    "University of UCS.md",
     "Wren.md",
     "Player Characters/Candy.md",
     "Player Characters/The Player Characters.md",

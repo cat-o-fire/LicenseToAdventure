@@ -5,15 +5,18 @@ aliases:
 tags:
   - PC
   - Eladrin
+  - Character
+  - Bard
 ---
+
 Played by Ana
 Eladrin Bard
 ![[EllisraFall.png|200]] ![[EllisraWinter.png|200]]
 ![[EllisraSpring.png|200]] ![[EllisraSummer.png|200]]
-Friends with [[Candy]] from [[University of UCS]]
+Friends with [[Calidy of Mount Pataro|Candy]] from [[University of UCS]]
 from [[Linellia]]
 
-Eladrin(?)
+Eladrin
 Bard
 Criminal Background
 Stats:
@@ -23,7 +26,7 @@ Stats:
 Background:
 - Born into a rich/noble high elven family
 - When it became obvious they where an Eladrin their parent started treating them differently
-- Got sent off to uucs
+- Got sent off to [[University of UCS|UUCS]]
 - failed out and was to proud to return home
 - Has lived off of their music and various cons since
 

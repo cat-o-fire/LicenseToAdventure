@@ -3,7 +3,7 @@
 Sony is 207
 Nel is 208
 
-207-209 is [[Sony]], [[Nel]], and [[Candy]]
+207-209 is [[Soni]], [[Nel]], and [[Calidy of Mount Pataro]]
 
 my number is 307
 [[Ellisra Lelnam|El]] 307 - 209 + 1
@@ -11,7 +11,7 @@ my number is 307
 [[Reggie]] -305 + 330 + 1
 [[Val]] 306 - 124 + 2
 [[Joanna]] 82 - 93 + 1
-[[Candy]] 209 - ??? + 0
+[[Calidy of Mount Pataro]] 209 - ??? + 0
 
 Collectively Ours, 330, 2??, 296, ??, ??, ??
 

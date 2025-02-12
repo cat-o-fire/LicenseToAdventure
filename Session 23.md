@@ -5,7 +5,7 @@
 - `They give some sort of insight into the dungeons`
 `it is the year 107 After Dungeons`
 [[Spectacles of Dreamsight]] `Lets people see into dreams`
-[[Val]] `shares that` [[Edmund]] `was the air to` [[Linellia]] 
+[[Val]] `shares that` [[Edmund]] `was the heir to` [[Linellia]] 
 the [[Untranslated Spellbook]] has a similar sentence structure to primordia
 [[Sapphire]] `the curse expert shows up finally`
 `Also` [[Grey]] `still has the cuff`

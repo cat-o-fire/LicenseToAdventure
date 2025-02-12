@@ -16,7 +16,7 @@ tags:
 - Proficiency: ??
 - Constitution: ??
 - Dexterity: ??
-- Charisma: ??
+- Charisma: 20
 - Wisdom: ??
 - Intelligence: ??
 **Proficiencies:**

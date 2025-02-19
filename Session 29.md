@@ -13,4 +13,5 @@ in the Aglo Veil
 	- Very undead energy in this dungeon
 	- Stage 2
 		- Undead bear, lion, tiger, and rhino
-- 
+	- Stage 3
+		- May what is dead return, what lives knows death, your enemies flag is the key to ascension 

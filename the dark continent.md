@@ -1,5 +1,0 @@
-Deemed unlivable upon "discovery" by outsides, the Dark Continent (Mini Upside Down Australia) is an ash-covered, barren landscape---or so those would-be colonizers believed. Surrounded by many tiny volcanic islands, the Dark Continent and its islandage are the home of dragonborn, kobolds, and (at its center) fire and earth genasi. It is unwelcoming of outsiders: to even breathe the air, you have to be created to live in the environment.
-
-At the continent's center lies Mount Pataro, a volcano ringed by a small genasi population. The Guild consistently requests access to the mountain, and is consistently denied.
-
-Guild presence is extremely limited on the Dark Continent. The Guild has only one small outpost there, and no Guild Hall. As such, the Dark Continent is considered part of the same region as the Nameless Continent.

@@ -62,9 +62,107 @@
               "icon": "lucide-file",
               "title": "Session 29"
             }
+          },
+          {
+            "id": "ff00c8328825aec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 31"
+            }
+          },
+          {
+            "id": "1022ca277e350ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 32.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 32"
+            }
+          },
+          {
+            "id": "8ec2012fd3cdf05f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 33.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 33"
+            }
+          },
+          {
+            "id": "078579a75a18fd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 34.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 34"
+            }
+          },
+          {
+            "id": "34e91ba85155ee5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 39.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 39"
+            }
+          },
+          {
+            "id": "1422d89797bd6b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Dungeons/The Tomb of !@&^.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Tomb of !@&^"
+            }
+          },
+          {
+            "id": "6cbb5f27d2ee5c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 40.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 40"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       },
       {
         "id": "b51d8073c67b4e91",
@@ -74,238 +172,12 @@
             "id": "d24d379887743861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Player Characters/Calidy of Mount Pataro.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250317172831.png"
               },
-              "icon": "lucide-file",
-              "title": "Calidy of Mount Pataro"
-            }
-          },
-          {
-            "id": "b2937eaa384e5c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 22"
-            }
-          },
-          {
-            "id": "9d93e9352ea6bb88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 24"
-            }
-          },
-          {
-            "id": "2ee1312b5039e193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soni"
-            }
-          },
-          {
-            "id": "b63581de498febd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phase 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phase 4"
-            }
-          },
-          {
-            "id": "5e2cc6e7f43904d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Reggie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reggie"
-            }
-          },
-          {
-            "id": "5a7f75153f34f75f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Sardine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Sardine"
-            }
-          },
-          {
-            "id": "7e0350b26cc57757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sulig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sulig"
-            }
-          },
-          {
-            "id": "b0168eac3cfbbc53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rainthatzla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rainthatzla"
-            }
-          },
-          {
-            "id": "af1737417be3b900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mount Pataro Oracles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mount Pataro Oracles"
-            }
-          },
-          {
-            "id": "1ad479181bea9675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 19"
-            }
-          },
-          {
-            "id": "5d45e0b2ab883252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 20"
-            }
-          },
-          {
-            "id": "4299bf92671bc637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 21"
-            }
-          },
-          {
-            "id": "1376f96f51552444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mount Pataro Oracles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mount Pataro Oracles"
-            }
-          },
-          {
-            "id": "41637c9faf0c2f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Calidy of Mount Pataro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calidy of Mount Pataro"
-            }
-          },
-          {
-            "id": "5d4e1315b817f7da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Val.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Val"
-            }
-          },
-          {
-            "id": "4d38ed536e1644a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wren"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250317172831"
             }
           }
         ]
@@ -340,7 +212,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "budget",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -381,17 +253,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 29.md",
+                "file": "Sessions/Session 40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 29"
+              "title": "Backlinks for Session 40"
             }
           },
           {
@@ -449,47 +321,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f32cabca1622dee",
+  "active": "6cbb5f27d2ee5c27",
   "lastOpenFiles": [
-    "Session 28.md",
-    "Session 29.md",
+    "Sessions/Session 38.md",
+    "Sessions/Session 37.md",
+    "Sessions/Session 36.md",
+    "Sessions/Session 32.md",
+    "Sessions/Session 33.md",
+    "Sessions/Session 35.md",
+    "Sessions/Session 34.md",
+    "Sessions/Session 39.md",
+    "The Autumn Revolt.md",
+    "Kaylesh.md",
+    "Sessions/Session 22.md",
+    "Sessions/Session 19.md",
+    "Sessions/Session 40.md",
     "Invitation.md",
-    "Session 24.md",
-    "Player Characters/Calidy of Mount Pataro.md",
-    "Session 22.md",
-    "Session 23.md",
-    "Session 27.md",
-    "Session 20.md",
-    "Session 19.md",
-    "Session 21.md",
-    "Session 25.md",
-    "Raveio Amicaar.md",
-    "Phase 4.md",
-    "Player Characters/Reggie.md",
-    "Soni.md",
-    "Player Characters/The Player Characters.md",
-    "Troya.md",
-    "Mount Pataro Oracles.md",
-    "Keagan of Mount Pataro.md",
-    "Brigid of Mount Pataro.md",
-    "Agnes of Mount Pataro.md",
-    "Player Characters/Ellisra Lelnam.md",
-    "Mother of Mount Pataro.md",
-    "Templates/Creature.md",
-    "Templates",
-    "Rainthatzla.md",
-    "Media/Portraits/Ellisra/EllisraSummer.png",
-    "Media/Portraits/Ellisra/EllisraFall.png",
-    "Media/Portraits/Ellisra/EllisraSpring.png",
+    "Olive.md",
+    "House Amicaar.md",
+    "Sessions/Session 21.md",
+    "Sessions/Session 23.md",
+    "People/Amelia von Crone.md",
+    "Sessions/Session 24.md",
+    "Sessions/Session 25.md",
+    "Sessions/Session 27.md",
+    "Sessions/Session 28.md",
+    "Sessions/Session 29.md",
+    "The Exam.md",
+    "Sessions/Session 20.md",
+    "Pasted image 20250317172831.png",
     "Media/Portraits/Ellisra/EllisraWinter.png",
+    "Media/Portraits/Ellisra/EllisraFall.png",
+    "Media/Portraits/Ellisra/EllisraFallTwo.png",
+    "Media/Portraits/Ellisra/EllisraSummer.png",
+    "Media/Portraits/Ellisra/EllisraSpring.png",
+    "Media/Portraits/Ellisra/EllisraWinterFancy.png",
+    "Sessions",
+    "People",
+    "Locations/Dungeons",
+    "Locations",
+    "IMG_9220.webp",
     "Media/Map.png",
+    "Templates",
     "Media/Portraits/Ellisra/download20240402155534.png",
-    "Media/Portraits/Ellisra/download20240402162041.png",
-    "Media/Portraits/Ellisra/download20240402140001.png",
-    "Media/Portraits/Ellisra/download20240402153806.png",
     "Media/Portraits/Ellisra",
     "Media/Portraits",
     "Media",
-    "Player Characters"
+    "People/Player Characters"
   ]
 }

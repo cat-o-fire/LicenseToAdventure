@@ -1,0 +1,7 @@
+- New member of the party [[Peppercorn]]
+- we do keep annoying [[Acklee]]
+- [[Reggie]] is affected with Insidious Insomnia
+	- He cant sleep until its broken
+- back in the [[Aglo Veil]]
+- [[Pep]] is short even for a halfling
+	- Barbarian, rages like an angry cat

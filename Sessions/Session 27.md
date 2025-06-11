@@ -10,7 +10,7 @@ Jar of roasted Pumpkin Seeds:
 
 In Joanna's dream
 - DGF is absent to [[Joanna]]
-- [[Val]] can see but not do
+- [[Val Amicaar]] can see but not do
 - first time [[Joanna]] has been in the cavern without DGF there
 - Cavern is carved
 - The same lettering as the untranslated book is carved into the stone table
@@ -18,5 +18,5 @@ In Joanna's dream
 	- has a similar vibe to [[Linellia|Linellian]] funeral rites
 - there is running water, [[Joanna]] stands on a bridge
 - same false light as the [[Vegar]] dungeon
-- DGF not escaped, not scared off by [[Val]]
+- DGF not escaped, not scared off by [[Val Amicaar]]
 

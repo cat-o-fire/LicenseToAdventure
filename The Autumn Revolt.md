@@ -13,7 +13,7 @@ Heir to [[Linellia]] and the spring court
 - we could maybe reach an agreement
 ## [[House Amicaar]]
 ### [[The General]]
-[[Val]]'s father
+[[Val Amicaar]]'s father
 
 **Solutions:** 
 - Could be bribed with positions of power
@@ -31,7 +31,7 @@ Val's other older brother. The good at talking one.
 **Solutions:**
 - Same as the other
 
-### [[Kaylesh]]
+### [[Kaylesh Amicaar]]
 Val's younger half-sister
 
 **Solutions:**

@@ -16,9 +16,9 @@ paved streets primarily used by horses
 ![[IMG_9220.webp]]
 the guild is hall is an open campus. not as ostentatious as the [[Troya]] hall
 its a wework office
-[[Val]] knows someone named [[Dolly]] (they dont get along)
+[[Val Amicaar]] knows someone named [[Dolly]] (they dont get along)
 - Mostly because shes a dick
-[[Amelia]] is someone [[Val]] seems to be avoiding
+[[Amelia]] is someone [[Val Amicaar]] seems to be avoiding
 
 [[Reggie]] asked [[Wren]] out. it did not go well.
 
@@ -48,7 +48,7 @@ Structure of the Autumn Court
 [[Peppercorn]] is weird about where she is from
 - shes from the [[Linellia|Linellian]] colonies
 
-[[Val]] investigating the [[Linellia|Linellian]] military (current movements)
+[[Val Amicaar]] investigating the [[Linellia|Linellian]] military (current movements)
 - joint posting from the [[Linellia|Linellian]] and colonial councilers asking to clear [[Underhill]]
 - guild members cant return to [[Linellia]]
 - Councilor [[Eli]] is the [[Linellia|Linellian]] councilor

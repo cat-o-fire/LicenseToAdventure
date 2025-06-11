@@ -31,7 +31,7 @@ after the ritual only [[Reggie]] can see the doorknob
 [[Dolly]] also sees the door
 its dungeon gold
 [[Calidy of Mount Pataro|Candy]] learns she is a warlock
-[[Val]]'s grandfathers wards should not have been able to cause the destruction of a dungeon
+[[Val Amicaar]]'s grandfathers wards should not have been able to cause the destruction of a dungeon
 
 the door leads to [[The Proffesora]]'s office
 she seems to be happy that [[Calidy of Mount Pataro|Candy]] managed to find her office

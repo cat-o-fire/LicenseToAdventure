@@ -18,7 +18,7 @@ shockingly there are statues
 	- holds he flag perfectly
 - Young half-elf (Edmund the Bastard)
 	- A detail is wrong on a signet ring
-- Talismere Amiicar, Val's Grandfather (Lord Talismere)
+- [[Talismere Amiicar]], Val's Grandfather (Lord Talismere)
 	- He looks almost sad
 - [[Embral]] Le Rue (Embral Le Rue)
 	- Rue is a plant from the naturalist continent known for being bitter

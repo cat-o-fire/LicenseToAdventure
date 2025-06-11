@@ -3,7 +3,7 @@
 - one from [[Paul]]
 - 
 
-[[Val]] gets two notes
+[[Val Amicaar]] gets two notes
 - one from [[Dolly]]
 	- He has a pass to get in to the university to get his grandfathers things
 - one from 
@@ -11,7 +11,7 @@
 
 [[Edmund]] is not decided on [[Linellia]] v [[The Guild]]
 
-[[Dolly]] office is not much difference from [[Val]]'s grandfathers
+[[Dolly]] office is not much difference from [[Val Amicaar]]'s grandfathers
 not entirely cleared out either
 
 lots of soil
@@ -20,7 +20,7 @@ poor book care (dogeared and left open)
 
 [[Reinhart]] is the only person to have defeated a dungeon boss and it is also the most stable dungeon
 
-[[Val]]'s grandfather believed that the dungeons where a blight
+[[Val Amicaar]]'s grandfather believed that the dungeons where a blight
 
 [[Dolly]] obviously does not
 - also she is a level 9 wizard

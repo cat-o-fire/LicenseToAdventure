@@ -5,7 +5,7 @@
 - `They give some sort of insight into the dungeons`
 `it is the year 107 After Dungeons`
 [[Spectacles of Dreamsight]] `Lets people see into dreams`
-[[Val]] `shares that` [[Edmund]] `was the heir to` [[Linellia]] 
+[[Val Amicaar]] `shares that` [[Edmund]] `was the heir to` [[Linellia]] 
 the [[Untranslated Spellbook]] has a similar sentence structure to primordia
 [[Sapphire]] `the curse expert shows up finally`
 `Also` [[Grey]] `still has the cuff`
@@ -36,7 +36,7 @@ Grey was charged with:
 - Gave insider information that was crucial for the plan
 
 **The Action (Part 1):**
-*only [[Reggie]] and [[Val]] are present*
+*only [[Reggie]] and [[Val Amicaar]] are present*
 most of the people present are from the undercontinent
 [[Rainthatzla]] is running the auction
 Max weight of dungeon gold per guild member

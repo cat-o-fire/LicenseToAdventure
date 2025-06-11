@@ -9,7 +9,7 @@ my number is 307
 [[Ellisra Lelnam|El]] 307 - 209 + 1
 [[Freddie]] 304 - 12 + 2
 [[Reggie]] -305 + 330 + 1
-[[Val]] 306 - 124 + 2
+[[Val Amicaar]] 306 - 124 + 2
 [[Joanna]] 82 - 93 + 1
 [[Calidy of Mount Pataro]] 209 - ??? + 0
 

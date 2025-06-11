@@ -38,8 +38,8 @@ Pipes of haunting
 	- Public thinks [[Greed]] is trying to use [[Edmund]] a puppet
 [[Cutter]] is also here
 [[Sonya]] `and` [[Soni]] `are twins`
-[[Sonya]] `is "quite fond" of` [[Val]]`'s sister`
-[[Kaylesh]] `(?)` [[Val]]`s half sister`
+[[Sonya]] `is "quite fond" of` [[Val Amicaar]]`'s sister`
+[[Kaylesh Amicaar]] `(?)` [[Val Amicaar]]`s half sister`
 [[Sonya]] `does not like` [[Soni]]`'s old friends`
 It takes some time to get to [[Greed]]
 [[Cutter]] cuts [[Calidy of Mount Pataro|Candy]]'s cuff off

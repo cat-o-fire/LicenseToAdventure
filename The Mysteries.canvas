@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"0f99f8d27079e2ed","type":"file","file":"People/Player Characters/Ellisra Lelnam.md","x":-360,"y":520,"width":400,"height":400},
+		{"id":"820e4fae44a62a2e","type":"file","file":"People/Player Characters/Calidy of Mount Pataro.md","x":840,"y":520,"width":400,"height":400},
+		{"id":"344f2c61f06dbcb0","type":"file","file":"People/Player Characters/Reggie.md","x":840,"y":1120,"width":400,"height":400},
+		{"id":"9c782102349c5e7c","type":"file","file":"People/Player Characters/Ember of Mount Pataro.md","x":240,"y":-80,"width":400,"height":400},
+		{"id":"6a47ea6ad4fb1713","x":-360,"y":1120,"width":400,"height":400,"type":"file","file":"People/Player Characters/Val Amicaar.md"},
+		{"id":"f82b59d83e62d210","type":"file","file":"People/Player Characters/Joanna.md","x":840,"y":1720,"width":400,"height":400},
+		{"id":"1b1960f4d6bc49bc","x":840,"y":-80,"width":400,"height":400,"type":"file","file":"People/Keagan of Mount Pataro.md"},
+		{"id":"6a28360f703d5efd","x":840,"y":-680,"width":400,"height":400,"type":"file","file":"People/Brigid of Mount Pataro.md"},
+		{"id":"982b7fe2ed561db2","x":240,"y":-680,"width":400,"height":400,"type":"file","file":"People/Agnes of Mount Pataro.md"},
+		{"id":"d594aeee5e65a721","x":-1560,"y":520,"width":400,"height":400,"type":"file","file":"People/Raveio Amicaar.md"},
+		{"id":"e032cea07d0e54f1","type":"file","file":"People/Player Characters/Peppercorn.md","x":240,"y":2320,"width":400,"height":400},
+		{"id":"b091b02ea33a21fa","x":-960,"y":-80,"width":400,"height":400,"type":"file","file":"People/Ghostia Aluana.md"},
+		{"id":"5c00326dbd24ec94","x":-1760,"y":920,"width":200,"height":200,"type":"file","file":"Base Notes.md"},
+		{"id":"1db2e1ee7939e123","x":-2160,"y":1120,"width":400,"height":400,"type":"file","file":"The General.md"}
+	],
+	"edges":[]
+}

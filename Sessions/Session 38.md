@@ -7,10 +7,10 @@ Anything: Ghost, Air Elemental, Nightwalker
 
 [[The Tomb of !@&^#%$]] has known sightings of: Berbalang (leather), Lammassu (heart, brain, feathers), Manticore (leather) , Psurlon (Heart, Brain, Eyes), Ghosts (Heart, Brain, Eyes, Anything), Eidolon (Heart)
 
-[[Edmund]] [[Wren]] and [[Zerie]]? are in a field of silence but can hear out.
+[[Edmund]] [[Wren]] and [[Zerie Hillcrow]]? are in a field of silence but can hear out.
 she definitely saw us come in and is specifically paying no attention to her
 [[Olive]] is the keeper of [[The Tomb of !@&^|The Tomb of !*@&^#%$]]
-[[Zerie]] (guild liaison to congress) is not happy, [[Edmund]] will not being doing anything about it
+[[Zerie Hillcrow]] (guild liaison to congress) is not happy, [[Edmund]] will not being doing anything about it
 
 Field notes are blood locked
 - Val's blood can be used to unlock it
@@ -37,11 +37,11 @@ level with a record of champions
 
 **[[Ellisra Lelnam|Ellisra]]'s dream**
 between waking and sleeping
-pumpkin hound is there
+[[Pumpkin Hound]] is there
 the hounds name is the protective shell of a pumpkin
 [[Reggie]]'s magic is more disconnected because we are not in a dungeon
 - most is still more connected
-[[Peppercorn|Pep]]'s man is extremely in tune with the world around them
+[[Peppercorn Meadowfort|Pep]]'s mana is extremely in tune with the world around them
 [[Calidy of Mount Pataro|Candy]]'s is not from here, loud, different, incompatible
 
 how to find [[Heir of Spring]]
@@ -56,7 +56,7 @@ perched in a garden in the crystal palace
 the child knows they are dreaming
 they are still in a garden and still here
 they look 10-11
-They are [[The Heir]]
+They are [[Heir of Spring|The Heir]]
 the foxes name is Honey straight from the comb
 they are ice melting into dew, change and persistence, second chances
 the princess of spring is gone

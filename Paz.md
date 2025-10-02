@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Ember
+aliases: 
 tags:
   - Character
 ---
@@ -13,10 +12,11 @@ tags:
 - Dexterity: ??
 - Charisma: ??
 - Wisdom: ??
-- Intelligence: 20
+- Intelligence: ??
 **Proficiencies:**
 - ??
 # Notes
 
 ## Relationships
-??
+### [[Greed]]
+adopted son

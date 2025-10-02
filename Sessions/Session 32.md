@@ -1,4 +1,4 @@
-- New member of the party [[Peppercorn]]
+- New member of the party [[Peppercorn Meadowfort]]
 - we do keep annoying [[Acklee]]
 - [[Reggie]] is affected with Insidious Insomnia
 	- He cant sleep until its broken

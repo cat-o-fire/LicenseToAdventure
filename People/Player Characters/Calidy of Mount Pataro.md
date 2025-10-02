@@ -18,7 +18,7 @@ tags:
 - Dexterity: ??
 - Charisma: 20
 - Wisdom: ??
-- Intelligence: ??
+- Intelligence: 19 (Via artifact)
 **Proficiencies:**
 - ??
 # Notes

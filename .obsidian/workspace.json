@@ -6,7 +6,7 @@
       {
         "id": "d05315c735a0f3d7",
         "type": "tabs",
-        "dimension": 55.325443786982255,
+        "dimension": 55.32544378698226,
         "children": [
           {
             "id": "3a14a4e8a2f87144",
@@ -168,21 +168,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 38.md",
+                "file": "Sessions/Session 44.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 38"
+              "title": "Session 44"
+            }
+          },
+          {
+            "id": "6a056257cf08986a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 46.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 46"
+            }
+          },
+          {
+            "id": "21b672c40ef003f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 47.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 47"
+            }
+          },
+          {
+            "id": "8653df0e6faafb6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Player Characters/The Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Player Characters"
+            }
+          },
+          {
+            "id": "4da29c8bc8cd9a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 47.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 47"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       },
       {
         "id": "b51d8073c67b4e91",
         "type": "tabs",
-        "dimension": 44.674556213017745,
+        "dimension": 44.67455621301774,
         "children": [
           {
             "id": "d24d379887743861",
@@ -197,8 +253,31 @@
               "icon": "lucide-file",
               "title": "Session 38"
             }
+          },
+          {
+            "id": "06cc380ed7644531",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Portraits/Ellisra/EllisraFallTwo.png"
+              },
+              "icon": "lucide-image",
+              "title": "EllisraFallTwo"
+            }
+          },
+          {
+            "id": "352e000d3b504aa1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +309,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grandfather",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +334,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "5c93af52a0fc1170",
@@ -271,17 +350,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 38.md",
+                "file": "People/Player Characters/The Player Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 38"
+              "title": "Backlinks for The Player Characters"
             }
           },
           {
@@ -331,6 +410,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -339,48 +419,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "760077ec52623afb",
+  "active": "ce9315be593fd182",
   "lastOpenFiles": [
-    "Sessions/Session 39.md",
-    "Sessions/Session 40.md",
-    "Sessions/Session 44.md",
-    "Sessions/Session 43.md",
-    "Sessions/Session 42.md",
-    "Sessions/Session 41.md",
-    "Sessions/Session 38.md",
-    "The Mysteries.canvas",
-    "Media/IMG_1134.webp",
-    "Talismere Amiicar.md",
-    "Sessions/Session 31.md",
-    "People/Player Characters/Val Amicaar.md",
-    "Sonya.md",
-    "Sessions/Session 22.md",
-    "Kaylesh Amicaar.md",
-    "Sessions/Session 29.md",
-    "The General.md",
-    "Pasted image 20250317172831.png",
-    "Base Notes.md",
-    "People/Nel.md",
-    "People/Player Characters/Reggie.md",
-    "People/Player Characters/Peppercorn.md",
-    "People/Player Characters/Joanna.md",
+    "People/Player Characters/Peppercorn Meadowfort.md",
     "People/Player Characters/Calidy of Mount Pataro.md",
-    "Sessions/Session 24.md",
+    "People/Player Characters/Ellisra Lelnam.md",
+    "People/Player Characters/Joanna.md",
+    "People/Player Characters/Freddie.md",
+    "People/Player Characters/Ember of Mount Pataro.md",
+    "People/Ghostia Aluana.md",
+    "People/Greed.md",
+    "People/Heir of Spring.md",
+    "People/Kaylesh Amicaar.md",
+    "People/Mother of Mount Pataro.md",
+    "People/Keagan of Mount Pataro.md",
+    "People/Soni Stoud.md",
+    "Locations/The Sardine.md",
+    "People/Sulig Stoud.md",
+    "Sessions/Session 48.md",
+    "Sessions/Session 47.md",
     "Sessions/Session 25.md",
-    "Sessions/Session 28.md",
-    "Sessions/Session 32.md",
-    "Sessions/Session 34.md",
-    "Media/Portraits/Ellisra/EllisraWinter.png",
-    "Media/Portraits/Ellisra/EllisraFall.png",
+    "Sessions/Session 23.md",
+    "Sessions/Session 22.md",
+    "Sessions/Session 21.md",
+    "Sessions/Session 20.md",
+    "Sessions/Session 19.md",
+    "Phase 4.md",
+    "People/Amelia von Crone.md",
+    "Azuro.md",
+    "The Mysteries.canvas",
     "Media/Portraits/Ellisra/EllisraFallTwo.png",
     "Media/Portraits/Ellisra/EllisraSummer.png",
-    "Media/Portraits/Ellisra/EllisraSpring.png",
     "Media/Portraits/Ellisra/EllisraWinterFancy.png",
+    "Media/Portraits/Ellisra/EllisraWinter.png",
+    "Media/Portraits/Ellisra/EllisraFall.png",
+    "Pasted image 20250317172831.png",
+    "Media/Portraits/Ellisra/EllisraSpring.png",
+    "IMG_9220.webp",
+    "Media/IMG_1134.webp",
     "Sessions",
     "People",
     "Locations/Dungeons",
     "Locations",
-    "IMG_9220.webp",
     "Media/Map.png",
     "Templates",
     "Media/Portraits/Ellisra",

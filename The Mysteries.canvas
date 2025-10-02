@@ -10,10 +10,10 @@
 		{"id":"6a28360f703d5efd","x":840,"y":-680,"width":400,"height":400,"type":"file","file":"People/Brigid of Mount Pataro.md"},
 		{"id":"982b7fe2ed561db2","x":240,"y":-680,"width":400,"height":400,"type":"file","file":"People/Agnes of Mount Pataro.md"},
 		{"id":"d594aeee5e65a721","x":-1560,"y":520,"width":400,"height":400,"type":"file","file":"People/Raveio Amicaar.md"},
-		{"id":"e032cea07d0e54f1","type":"file","file":"People/Player Characters/Peppercorn.md","x":240,"y":2320,"width":400,"height":400},
+		{"id":"e032cea07d0e54f1","type":"file","file":"People/Player Characters/Peppercorn Meadowfort.md","x":240,"y":2320,"width":400,"height":400},
 		{"id":"b091b02ea33a21fa","x":-960,"y":-80,"width":400,"height":400,"type":"file","file":"People/Ghostia Aluana.md"},
 		{"id":"5c00326dbd24ec94","x":-1760,"y":920,"width":200,"height":200,"type":"file","file":"Base Notes.md"},
-		{"id":"1db2e1ee7939e123","x":-2160,"y":1120,"width":400,"height":400,"type":"file","file":"The General.md"}
+		{"id":"1db2e1ee7939e123","x":-2160,"y":1120,"width":400,"height":400,"type":"file","file":"People/The General.md"}
 	],
 	"edges":[]
 }

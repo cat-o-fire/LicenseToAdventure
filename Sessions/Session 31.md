@@ -1,5 +1,5 @@
 during trance see through the demiplane
-there's a pumpkin hound now
+there's a [[pumpkin hound]] now
 - Express daughter of autumn where have you taken me
 - its tired but comfortable
 Even the party members are abstracted

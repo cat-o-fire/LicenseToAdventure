@@ -1,19 +1,18 @@
 ---
-aliases:
-  - Ember
+aliases: 
 tags:
   - Character
 ---
-**Race:** ??
-**Class:** ??
-**Background:** ??
+**Race:** [[Revanent]]
+**Class:** Scary
+**Background:** Dead guy
 **Stats:**
 - Proficiency: ??
 - Constitution: ??
 - Dexterity: ??
 - Charisma: ??
 - Wisdom: ??
-- Intelligence: 20
+- Intelligence: ??
 **Proficiencies:**
 - ??
 # Notes

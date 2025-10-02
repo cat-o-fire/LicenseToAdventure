@@ -1,4 +1,4 @@
-	mostly half elves at the elven embassy
+mostly half elves at the elven embassy
 [[Ghostia Aluana|Ghostia]] did her research on us
 congress's current standing is
 18 for peace envoy

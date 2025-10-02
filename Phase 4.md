@@ -3,7 +3,7 @@
 Sony is 207
 Nel is 208
 
-207-209 is [[Soni]], [[Nel]], and [[Calidy of Mount Pataro]]
+207-209 is [[Soni Stoud|Soni Stoud]], [[Nel]], and [[Calidy of Mount Pataro]]
 
 my number is 307
 [[Ellisra Lelnam|El]] 307 - 209 + 1
@@ -43,3 +43,4 @@ without have 2\*5 (originals) + 1\*3 (targets) +3 (misc) = 16 (need 8)
 
 Present-ish
 without have 2\*3 (originals) + 1\*3 (targets) + 7 (misc) = 16 (need 6)
+

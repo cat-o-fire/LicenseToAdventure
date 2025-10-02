@@ -1,10 +1,10 @@
 - [[Greed]] is back in [[Troya]]
 - [[Cutter]] is [[Greed]]'s son (or other family)
-- [[Soni]] was last seen wearing an identifiable ring
+- [[Soni Stoud|Soni Stoud]] was last seen wearing an identifiable ring
 - [[Calidy of Mount Pataro|Candy]] is drawn to the music hall
 - the [[Troyan Center for Perfoming Arts|TCPA]] is in not particularly nice neighbor hood
 - "They" can here anything that happens up stairs
-- [[Soni]] is drugged with sharp-suggar
+- [[Soni Stoud|Soni Stoud]] is drugged with sharp-suggar
 	- Gives haste 
 	- Clouds cognitive abilities
 	- Highly addictive

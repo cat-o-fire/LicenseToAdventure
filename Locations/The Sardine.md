@@ -8,6 +8,6 @@
 [[Violet]] Deep gnome with a gun
 [[Burn]] Kenku
 Black Goblin Carpenter
-Running an artifact to imprison [[Soni]]
+Running an artifact to imprison [[Soni Stoud|Soni Stoud]]
 used to work with [[Wren]]
 Changed Course again

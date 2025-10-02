@@ -1,1 +1,1 @@
-[[Cutter]] `wants` [[Soni]] `gone`
+[[Cutter]] `wants` [[Soni Stoud|Soni Stoud]] `gone`

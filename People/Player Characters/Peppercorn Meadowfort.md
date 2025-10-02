@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Ember
+  - Pep
 tags:
   - Character
 ---
@@ -13,7 +13,7 @@ tags:
 - Dexterity: ??
 - Charisma: ??
 - Wisdom: ??
-- Intelligence: 20
+- Intelligence: 8-9
 **Proficiencies:**
 - ??
 # Notes

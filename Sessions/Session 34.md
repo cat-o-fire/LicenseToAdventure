@@ -45,13 +45,13 @@ Structure of the Autumn Court
 - the pumpkin prince was exiled for comiting some sort of crime
 - autumn needs a new heir
 
-[[Peppercorn]] is weird about where she is from
+[[Peppercorn Meadowfort]] is weird about where she is from
 - shes from the [[Linellia|Linellian]] colonies
 
 [[Val Amicaar]] investigating the [[Linellia|Linellian]] military (current movements)
 - joint posting from the [[Linellia|Linellian]] and colonial councilers asking to clear [[Underhill]]
 - guild members cant return to [[Linellia]]
-- Councilor [[Eli]] is the [[Linellia|Linellian]] councilor
+- Councilor [[Elijah Kohn|Eli]] is the [[Linellia|Linellian]] councilor
 	- he really doesn't want to fight [[Linellia]]
 
 [[Dolly]] is from a notable family in [[Lagramire]]
@@ -61,7 +61,7 @@ Structure of the Autumn Court
 
 [[Wren]] shows up at the nightclub we are at
 - [[Wren]] is attempting to gather some information
-- didn't expect [[Peppercorn|Pep]] to be traveling with us
+- didn't expect [[Peppercorn Meadowfort|Pep]] to be traveling with us
 - as a favor for [[Edmund]]
 - an ambassador has sway over some votes
 	- trying to figure out why

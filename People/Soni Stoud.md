@@ -1,5 +1,7 @@
 ---
 tags:
+  - Drow
+  - Rogue
 ---
 Drow Arcane Trickster
 

@@ -4,6 +4,7 @@ tags:
   - Artificer
   - Character
 aliases:
+  - Val
 ---
 
 Played by Jeff

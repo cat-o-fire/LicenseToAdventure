@@ -1,5 +1,5 @@
-`Tabloid has a write up on` [[Sulig|Sulig Stoud]] `and` [[Amelia von Crone|Amelia Von Crone]]
-`Small section on` [[Reggie]] `and` [[Soni]]
+`Tabloid has a write up on` [[Sulig Stoud|Sulig Stoud]] `and` [[Amelia von Crone|Amelia Von Crone]]
+`Small section on` [[Reggie]] `and` [[Soni Stoud|Soni Stoud]]
 `Tonight is Whole goods auction, tommorow is magic items auction` 
 [[Spectacles of Dreamsight]] `where first found by` [[Edmund]]
 - `They give some sort of insight into the dungeons`
@@ -20,7 +20,7 @@ She doesn't have the authority to let us get [[Grey]]'s cuff
 Drow Judge
 Five people on trial for attempted assassination, murder of civilians, various other things
 all branded desecrate member
-[[Soni]] stands as witness
+[[Soni Stoud|Soni Stoud]] stands as witness
 - He had a bad time with desecrate
 All of them seem to willing to be judged guilty
 - All confessed on the stand

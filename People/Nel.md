@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases:
 tags:
-  - Drow
-  - Rogue
+  - Human
+  - Wizard
 ---
-Drow rogue
+Human Wizard
 
 [[Skip]]'s older brother
